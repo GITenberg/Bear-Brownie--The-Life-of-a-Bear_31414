@@ -1,0 +1,34 @@
+_repo: Bear-Brownie--The-Life-of-a-Bear_31414
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Robinson, Harry Perry
+    aliases:
+    - Robinson, H. P. (Harry Perry)
+    - Robinson, H. Perry (Harry Perry)
+    - Robinson, Harry P. (Harry Perry)
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '34671'
+    url: http://www.gutenberg.org/2009/agents/34671
+  editor:
+    agent_name: Fielding, Jane
+    gutenberg_agent_id: '35212'
+    url: http://www.gutenberg.org/2009/agents/35212
+description: ''
+gutenberg_issued: '2010-02-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31414'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Bears -- Fiction'
+- !lcc 'PR'
+title: 'Bear Brownie: The Life of a Bear'
+url: http://www.gutenberg.org/ebooks/31414
